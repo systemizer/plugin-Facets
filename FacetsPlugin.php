@@ -2,6 +2,7 @@
 /**
  * @copyright Jean-Baptiste HEREN, 2018
  * @copyright Daniele BINAGHI, 2021-2022
+ * @copyright Robert MCQUEEN, 2023
  * @license http://www.gnu.org/licenses/gpl-3.0.txt
  * @package FacetsPlugin
  */
