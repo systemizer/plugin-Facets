@@ -20,7 +20,7 @@
 ?>
 
 <div id="facets-container" class="<?php echo "facets-layout-" . $facetsDirection; ?>">
-	<button id="facets-title" <?php if ($facetsCollapsible) echo "class=\"facets-collapsed\""; ?>><?php echo html_escape(__('Refine search')) ?></button>
+	<!--<button id="facets-title" <?php if ($facetsCollapsible) echo "class=\"facets-collapsed\""; ?>><?php echo html_escape(__('Refine search')) ?></button>-->
 	<div id="facets-body">
 		<?php 
 			if (get_option('facets_description') == 1) {
